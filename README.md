@@ -1,2 +1,2 @@
-# pw-cmsdomino
+# pw-okenko
 site templates for PW
